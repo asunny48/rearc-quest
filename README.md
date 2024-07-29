@@ -9,6 +9,8 @@ The deployed application can be accessed at: https://app-lb-1516613361.us-east-2
 
 -----------------------------------------------------------------------
 
+![image](https://github.com/user-attachments/assets/300fbbaa-4a97-4ae1-b547-97704ded22ed)
+
 # Project Structure
 
 - `/iac` contains the infrastructure as code (IaC) Terraform files.
