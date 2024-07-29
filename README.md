@@ -75,7 +75,7 @@ TLS certificates, obtained from AWS ACM.
 
 ---------------------------------------------------------
 
-# Given more time, I would make several improvements.
+# Improvements:
 
 
 This exercise serves as a Proof of Concept, focusing on quickly demonstrating functionality before a full-scale implementation to make the solution production-ready.
